@@ -1,9 +1,8 @@
 import json
-
+import requests
 from todoist.api import TodoistAPI
 from datetime import datetime, timedelta
 from settings_secret import *
-import requests
 
 
 def main():
