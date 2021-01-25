@@ -19,3 +19,6 @@ git clone https://github.com/NekoSarada1101/todoist-pixela.git
 cd todoist-pixela
 python main.py
 ```
+
+## ライセンス
+[MIT](https://github.com/NekoSarada1101/todoist-pixela/blob/main/LICENSE)
